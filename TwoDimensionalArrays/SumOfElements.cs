@@ -1,5 +1,4 @@
 ﻿/* Author: John Alexander Gutierrez Gaviria
- * Student Id: c0895239
  * Date: 10/23/2023 */
 
 using System;
